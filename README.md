@@ -1,16 +1,34 @@
-### Hi there 👋
+### Добрый день! 
 
-<!--
-**bolgar-danchenko/bolgar-danchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Константин Болгар-Данченко**, iOS-разработчик.
 
-Here are some ideas to get you started:
+### Мой стек
+* UIKit, SwiftUI
+* Паттерны: MVC, MVVM, Coordinator
+* Работа с зависимостями: Swift Package Manager, CocoaPods
+* Работа с многопоточностью
+* Работа с сетью: JSON, URLSession, Rest API
+* Хранение данных: UserDefaults, FileManager, Keychain
+* Базы данных: CoreData, Realm, Firebase
+* Дополнительные инструменты iOS SDK: AVFoundation, CoreLocation, MapKit и другие
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+* [**WeatherApp**](https://github.com/bolgar-danchenko/WeatherApp) - Курсовой проект в модуле **Хранение данных**. Стек: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
+* [**ECommerceApp**](https://github.com/bolgar-danchenko/ECommerceApp) - Проект выполнен при самостоятельном изучении **SwiftUI**
+* [**FileManager**](https://github.com/bolgar-danchenko/FileManager) - Домашнее задание по темам **FileManager**, **UserDefaults**, **Keychain**, **Face ID**
+* [**MyHabits**](https://github.com/bolgar-danchenko/MyHabits) - Курсовой проект в модуле **Хранение данных**
+* [**NotesApp**](https://github.com/bolgar-danchenko/NotesApp) - Самостоятельный проект для изучения **CoreData**
+* [**MapLocationRoute**](https://github.com/bolgar-danchenko/MapLocationRoute) - Домашнее задание по темам **MapKit**, **CoreLocation**, **локализация**
+* [**MediaPlayer**](https://github.com/bolgar-danchenko/MediaPlayer) - Домашнее задание по теме **AVFoundation**
+
+### Сертификаты Нетологии
+* [Основы Swift](SwiftBasic.pdf)
+* [Основы Swift Advanced](SwiftAdvanced.pdf)
+* [Интерфейс приложения](UIKit.pdf)
+* [Промышленная разработка](IndustrialDevelopment.pdf)
+* [Хранение данных](DataStorage.pdf)
+* [Продвинутая разработка](AdvancedDevelopment.pdf)
+* [Git](Git.pdf)
+
+### Открыт для сотрудничества!
+[Связаться со мной](http://bolgar-danchenko.tilda.ws/)
