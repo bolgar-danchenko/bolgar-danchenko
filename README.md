@@ -13,10 +13,11 @@
 * Дополнительные инструменты iOS SDK: AVFoundation, CoreLocation, MapKit и другие
 
 ### Проекты
-* [**WeatherApp**](https://github.com/bolgar-danchenko/WeatherApp) - Курсовой проект в модуле **Хранение данных**. Стек: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
+* [**FirebaseChatApp**](https://github.com/bolgar-danchenko/FirebaseChatApp) - Чат в реальном времени. Стек: **SwiftUI**, **MVVM**, **Firebase**, **Firestore**
+* [**WeatherApp**](https://github.com/bolgar-danchenko/WeatherApp) - Курсовой проект в модуле **Хранение данных**. Выполнено с нуля. Стек: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
 * [**ECommerceApp**](https://github.com/bolgar-danchenko/ECommerceApp) - Проект выполнен при самостоятельном изучении **SwiftUI**
 * [**FileManager**](https://github.com/bolgar-danchenko/FileManager) - Домашнее задание по темам **FileManager**, **UserDefaults**, **Keychain**, **Face ID**
-* [**MyHabits**](https://github.com/bolgar-danchenko/MyHabits) - Курсовой проект в модуле **Хранение данных**
+* [**MyHabits**](https://github.com/bolgar-danchenko/MyHabits) - Курсовой проект в модуле **Интерфейс приложения**
 * [**NotesApp**](https://github.com/bolgar-danchenko/NotesApp) - Самостоятельный проект для изучения **CoreData**
 * [**MapLocationRoute**](https://github.com/bolgar-danchenko/MapLocationRoute) - Домашнее задание по темам **MapKit**, **CoreLocation**, **локализация**
 * [**MediaPlayer**](https://github.com/bolgar-danchenko/MediaPlayer) - Домашнее задание по теме **AVFoundation**
