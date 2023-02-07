@@ -51,6 +51,9 @@ I'm **Konstantin**, iOS Developer.
 * [**Map Location Route**](https://github.com/bolgar-danchenko/MapLocationRoute) - Домашнее задание по темам **MapKit**, **CoreLocation**, **локализация**
 * [**Media Player**](https://github.com/bolgar-danchenko/MediaPlayer) - Домашнее задание по теме **AVFoundation**
 
+### Рекомендации
+* [Сергей Котов - руководитель курса iOS-разработки в Нетологии](Рекомендация_Котов.pdf)
+
 ### Сертификаты Нетологии
 * [Основы Swift](SwiftBasic.pdf)
 * [Основы Swift Advanced](SwiftAdvanced.pdf)
