@@ -17,6 +17,7 @@ I'm **Konstantin**, iOS Developer.
 * [**Firebase Chat App**](https://github.com/bolgar-danchenko/FirebaseChatApp) - Real time conversation. Stack: **SwiftUI**, **MVVM**, **Firebase**, **Firestore**
 * [**Weather App**](https://github.com/bolgar-danchenko/WeatherApp) - Сourse work on **Data Storage** from scratch. Stack: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
 * [**ECommerce App**](https://github.com/bolgar-danchenko/ECommerceApp) and [**ECommerce UI Concept**](https://github.com/bolgar-danchenko/EcommerceConcept) - Self-studying of **SwiftUI**
+* [**News**](https://github.com/bolgar-danchenko/News) from NewsAPI. Stack: **REST API**, **JSON**, **WebKit**, **UserDefaults**, **GCD**
 * [**File Manager**](https://github.com/bolgar-danchenko/FileManager) - Homeworks on the subjects **FileManager**, **UserDefaults**, **Keychain**, **Face ID**
 * [**My Habits**](https://github.com/bolgar-danchenko/MyHabits) - Course work on **UIKit**
 * [**Notes App**](https://github.com/bolgar-danchenko/NotesApp) - Self-studying of **CoreData**
@@ -45,6 +46,7 @@ I'm **Konstantin**, iOS Developer.
 * [**Firebase Chat App**](https://github.com/bolgar-danchenko/FirebaseChatApp) - Чат в реальном времени. Стек: **SwiftUI**, **MVVM**, **Firebase**, **Firestore**
 * [**Weather App**](https://github.com/bolgar-danchenko/WeatherApp) - Курсовой проект в модуле **Хранение данных**. Выполнено с нуля. Стек: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
 * [**ECommerce App**](https://github.com/bolgar-danchenko/ECommerceApp) и [**ECommerce UI Concept**](https://github.com/bolgar-danchenko/EcommerceConcept) - Проекты выполнены при самостоятельном изучении **SwiftUI**
+* * [**News**](https://github.com/bolgar-danchenko/News) - новости от NewsAPI. Стек: **REST API**, **JSON**, **WebKit**, **UserDefaults**, **GCD**
 * [**File Manager**](https://github.com/bolgar-danchenko/FileManager) - Домашнее задание по темам **FileManager**, **UserDefaults**, **Keychain**, **Face ID**
 * [**My Habits**](https://github.com/bolgar-danchenko/MyHabits) - Курсовой проект в модуле **Интерфейс приложения**
 * [**Notes App**](https://github.com/bolgar-danchenko/NotesApp) - Самостоятельный проект для изучения **CoreData**
